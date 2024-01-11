@@ -1,0 +1,16 @@
+D:\My\XstPlan\UDP\UdpTool\UdpTool\bin\Release\net6.0\UdpTool.exe
+D:\My\XstPlan\UDP\UdpTool\UdpTool\bin\Release\net6.0\config.json
+D:\My\XstPlan\UDP\UdpTool\UdpTool\bin\Release\net6.0\UdpTool.deps.json
+D:\My\XstPlan\UDP\UdpTool\UdpTool\bin\Release\net6.0\UdpTool.runtimeconfig.json
+D:\My\XstPlan\UDP\UdpTool\UdpTool\bin\Release\net6.0\UdpTool.dll
+D:\My\XstPlan\UDP\UdpTool\UdpTool\bin\Release\net6.0\UdpTool.pdb
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\UdpTool.csproj.AssemblyReference.cache
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\UdpTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\UdpTool.AssemblyInfoInputs.cache
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\UdpTool.AssemblyInfo.cs
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\UdpTool.csproj.CoreCompileInputs.cache
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\UdpTool.dll
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\refint\UdpTool.dll
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\UdpTool.pdb
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\UdpTool.genruntimeconfig.cache
+D:\My\XstPlan\UDP\UdpTool\UdpTool\obj\Release\net6.0\ref\UdpTool.dll

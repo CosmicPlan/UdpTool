@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/aCTyHS/t/I1/c7EdVbVzIKn2/FjOUswA4C8erLevHJcmP3gyWEr+vJE/qaesp6hYWI8GyLF8t+/kYTViLQwfQ==",
+  "success": true,
+  "projectFilePath": "D:\\My\\XstPlan\\UDP\\UdpTool\\UdpTool\\UdpTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\D-Hisim\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.18\\microsoft.netcore.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\D-Hisim\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\D-Hisim\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
